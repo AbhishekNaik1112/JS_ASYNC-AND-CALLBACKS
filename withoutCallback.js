@@ -25,6 +25,6 @@ function createCookie(newCookie) {
 createCookie(newCookie);
 getCookies();
 
-//OUTPUT:
+//OUTPUT:-
 //Chocolate Cookies
 //Macaron Cookies
