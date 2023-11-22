@@ -22,7 +22,7 @@ function createCookie(newCookie, callback) {
 // Progression 4: calling function
 createCookie(newCookie, getCookies);
 
-//OUTPUT:
+//OUTPUT:-
 //Chocolate Cookies
 //Macaron Cookies
 //Biscotti Cookies
