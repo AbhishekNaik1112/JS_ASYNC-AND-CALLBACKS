@@ -7,7 +7,7 @@ function getCookies() {
   setTimeout(() => {
     let output = "";
     cookies.forEach((cookie) => {
-      output += `${cookie.name}<br>`;
+      output += `<li>${cookie.name}</li>`;
       document.body.innerHTML = output;
     });
   }, 1000);
